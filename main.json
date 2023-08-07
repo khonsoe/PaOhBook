@@ -1,24 +1,25 @@
 {"fonts":[
-  {"title":"လိတ္မြဴးေစာင္ၒ","desc":"uFont","type":"pdf",
+  {"title":"လိတ်မွူးစောင်ႏ","desc":"uFont","type":"pdf",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/Lm.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lm1.jpg"},
   
-  {"title":"ထြားဗာၒတဲင္ေသ","desc":"uFont","type":"pdf",
+  {"title":"ထွားဗာႏတဲင်သေ","desc":"uFont","type":"pdf",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/tl1.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/tl1.jpg"},
 
-  {"title":"မဂၤလာၒဗိုလ္တုဲင္","desc":"uFont","type":"pdf",
+  {"title":"မင်္ဂလာႏဗိုလ်တုဲင်","desc":"uFont","type":"pdf",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/mklbt.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/mklbt.jpg"},
 
-  {"title":"ေလာကတြမ္ၒဗုဓၵ","desc":"uFont","type":"pdf",
+  {"title":"လောကတွမ်ႏဗုဓ္ဒ","desc":"uFont","type":"pdf",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/lktbd.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lktbd.jpg"},
 
-  {"title":"ပါရမီၒဆီပါꩻ","desc":"uFont","type":"pdf",
+  {"title":"ပါရမီႏဆီပါꩻ","desc":"uFont","type":"pdf",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/prmsp.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/prmsp.jpg"},
   
   
 ]}
+
 
