@@ -30,7 +30,16 @@
   {"title":"ပါရမီႏဆီပါꩻ","desc":"uFont","type":"pdf",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/prmsp.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/prmsp.jpg"},
-  
+
+    {"title":"ဒုလ္လဘတရာꩻ၅ပါꩻ","desc":"uFont","type":"pdf",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dlb.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dlb.jpg"},
+
+    {"title":"မေတ္တာႏတရာꩻ","desc":"uFont","type":"pdf",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/mttr.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/mttr.jpg"},
+
+
   
 ]}
 
