@@ -28,10 +28,14 @@
 
 "Action":[
 {"title":"title1", "desc":"desc1", 
-  "image":"img_link", 
-  "link":"video_link"
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
+  "link":"video_link", 
+  
 },
-{"title":"title2", "desc":"desc2", "image":"img_link", "link":"video_link"
+{"title":"title2", "desc":"desc2", 
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
+  "link":"video_link", 
+  
 }],
 
 "Drama":[
