@@ -16,11 +16,11 @@
 "လိတ်ပအိုဝ်ႏ":[
 {"title":"title1", "desc":"desc1", 
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lm1.jpg", 
-  "link":"video_link","category":"လိတ်ပအိုဝ်ႏ"
+  "link":"video_link","category":"Action"
 },
 {"title":"title2", "desc":"desc2", 
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/tl1.jpg", 
-  "link":"video_link","category":"လိတ်ပအိုဝ်ႏ"
+  "link":"video_link","category":"Action"
 }],
 
 "Action":[
