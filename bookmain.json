@@ -12,14 +12,15 @@
   "image":"https://wallpaperaccess.com/full/5487669.jpg"
 }],
 
+  
 "လိတ်ပအိုဝ်ႏ":[
 {"title":"title1", "desc":"desc1", 
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lm1.jpg", 
-  "link":"video_link","categories":"Action"
+  "link":"video_link","categories":"လိတ်ပအိုဝ်"
 },
 {"title":"title2", "desc":"desc2", 
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/tl1.jpg", 
-  "link":"video_link","categories":"Dramma"
+  "link":"video_link","categories":"လိတ်ပအိုဝ်"
 }],
 
 "Action":[
