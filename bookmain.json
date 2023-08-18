@@ -15,21 +15,21 @@
 "Recent":[
 {"title":"title1", "desc":"desc1", 
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
-  "link":"video_link", "category":"Action"
+  "link":"video_link", "category":"Recent"
 },
 {"title":"title2", "desc":"desc2", 
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
-  "link":"video_link", "category":"Drama"
+  "link":"video_link", "category":"Recent"
 }],
 
 "Action":[
 {"title":"title1", "desc":"desc1", 
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
-  "link":"video_link"
+  "link":"video_link","category":"Action"
 },
 {"title":"title2", "desc":"desc2", 
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
-  "link":"video_link"
+  "link":"video_link","category":"Action"
 }],
 
 "Drama":[
