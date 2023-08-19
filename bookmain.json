@@ -1,16 +1,18 @@
 {"categories":[
-  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/Lm.pdf","category":"Action"
+{"name":"PaOLake", 
+  "image":"https://wallpaperaccess.com/full/5338988.jpg"
 },
-{"title":"title2", "desc":"desc2", 
-  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/tl1.jpg", 
-  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/Lm.pdf","category":"Action"
+{"name":"Action", 
+  "image":"https://wallpaperaccess.com/full/5487669.jpg"
 },
-  {"title":"လိတ်ပအိုဝ္","desc":"uFont","category":"Action",
-  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/Lm.pdf",
-  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lm1.jpg"
-  }],
+{"name":"Drama", 
+  "image":"https://wallpaperaccess.com/full/5487669.jpg"
+},
+{"name":"Horror", 
+  "image":"https://wallpaperaccess.com/full/5487669.jpg"
+}],
 
-"Action":[
+"PaOLake":[
     {"title":"လိတ်မွူးစောင်ႏ","desc":"uFont","category":"Action",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/Lm.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lm1.jpg"},
