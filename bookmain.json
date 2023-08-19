@@ -172,7 +172,17 @@
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd11.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd11.jpg"
 }],
-
+  
+"Action":[
+{"title":"title1", "desc":"desc1", 
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
+  "link":"video_link"
+},
+{"title":"title2", "desc":"desc2", 
+  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
+  "link":"video_link"
+}],
+  
 "Drama":[
 {"title":"title1", "desc":"desc1", 
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
