@@ -28,6 +28,10 @@
   }],
 
 "Action":[
+    {"title":"လိတ်ပအိုဝ္","desc":"uFont","category":"Action",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/Lm.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lm1.jpg"
+    },
 {"title":"title1", "desc":"desc1", 
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
   "link":"video_link","category":"Action"
