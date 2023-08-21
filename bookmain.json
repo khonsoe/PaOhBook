@@ -5,10 +5,10 @@
 {"name":"ဓမ္မပဒ", 
   "image":"https://wallpaperaccess.com/full/5487669.jpg"
 },
-{"name":"Drama", 
+{"name":"အင်္ဂုတ္တိုရ်ႏ", 
   "image":"https://wallpaperaccess.com/full/5487669.jpg"
 },
-{"name":"Horror", 
+{"name":"ဇာတ်ဝတ္ထု", 
   "image":"https://wallpaperaccess.com/full/5487669.jpg"
 }],
 
@@ -183,7 +183,7 @@
   "link":"video_link"
 }],
   
-"Drama":[
+"အင်္ဂုတ္တိုရ်ႏ":[
 {"title":"title1", "desc":"desc1", 
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
   "link":"video_link"
@@ -193,7 +193,7 @@
   "link":"video_link"
 }],
 
-"Horror":[
+"ဇာတ်ဝတ္ထု":[
 {"title":"title1", "desc":"desc1", 
   "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
   "link":"video_link"
