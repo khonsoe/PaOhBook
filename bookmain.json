@@ -174,13 +174,53 @@
 }],
   
 "ဓမ္မပဒ":[
-{"title":"title1", "desc":"desc1", 
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
-  "link":"video_link"
+{"title":"ဓမ္မပဒ ၁","desc":"၁",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"},
+
+"ဓမ္မပဒ":[
+{"title":"ဓမ္မပဒ ၂","desc":"၂",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"
 },
-{"title":"title2", "desc":"desc2", 
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
-  "link":"video_link"
+  {"title":"ဓမ္မပဒ ၃","desc":"၃",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"},
+
+"ဓမ္မပဒ":[
+{"title":"ဓမ္မပဒ ၄","desc":"၄",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"
+},
+  {"title":"ဓမ္မပဒ ၅","desc":"၅",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"},
+
+"ဓမ္မပဒ":[
+{"title":"ဓမ္မပဒ ၆","desc":"၆",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"
+},
+  {"title":"ဓမ္မပဒ ၇","desc":"၇",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"},
+
+"ဓမ္မပဒ":[
+{"title":"ဓမ္မပဒ ၈","desc":"၈",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"
+},
+  {"title":"ဓမ္မပဒ ၉","desc":"၉",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"},
+"ဓမ္မပဒ":[
+{"title":"ဓမ္မပဒ ၁၀","desc":"၁၀",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"
+},
+  {"title":"ဓမ္မပဒ ၁၁","desc":"၁၁",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/dmpd1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/dmpd1.jpg"
 }],
   
 "အင်္ဂုတ္တိုရ်ႏ":[
