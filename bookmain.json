@@ -219,13 +219,21 @@
 }],
   
 "အင်္ဂုတ္တိုရ်ႏ":[
-{"title":"title1", "desc":"desc1", 
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
-  "link":"video_link"
-},
-{"title":"title2", "desc":"desc2", 
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT4FLImSBSdr9e-c1_sB8sK3gQTIkHujVctg&usqp=CAU", 
-  "link":"video_link"
+{"title":"အင်္ဂုတ္တိုရ်ႏ ၁","desc":"၁",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/agt1.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/agt1.jpg"},
+
+  {"title":"အင်္ဂုတ္တိုရ်ႏ ၂","desc":"၂",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/agt2.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/agt2.jpg"},
+
+  {"title":"အင်္ဂုတ္တိုရ်ႏ ၃","desc":"၃",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/agt3.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/agt3.jpg"},
+
+  {"title":"အင်္ဂုတ္တိုရ်ႏ ၄","desc":"၄",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/agt4.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/agt4.jpg"
 }],
 
 "ဇာတ်ဝတ္ထု":[
