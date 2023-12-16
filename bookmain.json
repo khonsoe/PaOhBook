@@ -13,23 +13,23 @@
 }],
 
 "လိတ်မဲ့ငါ":[
-    {"title":"လိတ်မွူးစောင်ႏ","desc":"၁","category":"Action",
+    {"title":"လိတ်မွူးစောင်ႏ","desc":"မူ","category":"Action",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/Lm.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lm1.jpg"},
   
-  {"title":"ထွားဗာႏတဲင်သေ","desc":"၂","category":"Action",
+  {"title":"ထွားဗာႏတဲင်သေ","desc":"၁","category":"Action",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/tl1.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/tl1.jpg"},
 
-  {"title":"ဗုဒ္ဓဘာႏသာႏ","desc":"၂","category":"Action",
+  {"title":"ဗုဒ္ဓဘာႏသာႏ","desc":"၁","category":"Action",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/bd.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bd.jpg"},
 
-  {"title":"မင်္ဂလာႏဗိုလ်တုဲင်","desc":"၃","category":"Action",
+  {"title":"မင်္ဂလာႏဗိုလ်တုဲင်","desc":"၂","category":"Action",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/mklbt.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/mklbt.jpg"},
 
-  {"title":"လောကတွမ်ႏဗုဒ္ဓ","desc":"၄","category":"Action",
+  {"title":"လောကတွမ်ႏဗုဒ္ဓ","desc":"၃","category":"Action",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/lktbd.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lktbd.jpg"},
 
