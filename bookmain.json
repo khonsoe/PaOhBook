@@ -10,6 +10,9 @@
 },
 {"name":"ဇာတ်ဝတ္ထု", 
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
+},
+{"name":"လိတ်အုတ်လင်", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
 }],
 
 "လိတ်မဲ့ငါ":[
@@ -277,5 +280,11 @@
 {"title":"ဇာတ်ဝတ္ထု ၅၅၀ (၁၀)","desc":"၁၀",
   "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/zwt10.pdf",
   "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/zwt10.jpg"
+}],
+  
+  "လိတ်အုတ်လင်":[
+{"title":"ပရိတ်ကြီး ၁၁သုတ်","desc":"၁၀",
+  "link":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Book/pr11.pdf",
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/pr11.jpg"
 }]
 }
