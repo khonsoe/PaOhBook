@@ -1,0 +1,52 @@
+{"categories":[
+{"name":"လိတ်မဲ့ငါ", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
+},
+{"name":"ဓမ္မပဒ", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
+},
+{"name":"အင်္ဂုတ္တိုရ်ႏ", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
+},
+{"name":"ဇာတ်ဝတ္ထု", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/bk.png"
+},
+{"name":"ပေါင်ꩻစွုမ်ႏ", 
+  "image":"https://raw.githubusercontent.com/KhunArr/PaOhBook/main/Image/lpg.png"
+}],
+
+"လိတ်မဲ့ငါ":[
+    {"title":"လိတ်မွူးစောင်ႏ","desc":"မူ","category":"Action"
+    },
+  
+  {"title":"ထွားဗာႏတဲင်သေ","desc":"၁","category":"Action"
+}],
+  
+"ဓမ္မပဒ":[
+{"title":"ဓမ္မပဒ ၁","desc":"၁"
+}
+}],
+  
+"အင်္ဂုတ္တိုရ်ႏ":[
+{"title":"အင်္ဂုတ္တိုရ်ႏ ၁","desc":"၁"
+},
+
+  {"title":"အင်္ဂုတ္တိုရ်ႏ ၄","desc":"၄"
+}],
+
+"ဇာတ်ဝတ္ထု":[
+{"title":"ဇာတ်ဝတ္ထု ၅၅၀ (၁)","desc":"၁"
+},
+{"title":"ဇာတ်ဝတ္ထု ၅၅၀ (၁၀)","desc":"၁၀"
+}],
+  
+  "ပေါင်ꩻစွုမ်ႏ":[
+{"title":"ပရိတ်ကြီး ၁၁သုတ်","desc":"1"
+},
+  {"title":"ကုသိုလ်ႏဝင်ႏငေါဝ်းဆုꩻတောင်ꩻ","desc":"2"
+},
+  {"title":"ပဒေႏသာႏ ဖတ်မတ်ခရာႏလိတ်စောင်ႏ","desc":"3"
+},
+    {"title":"တရာꩻရောင်ႏခ ၁၂","desc":"တ"
+}]
+}
