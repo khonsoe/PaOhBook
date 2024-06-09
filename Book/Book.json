@@ -13,35 +13,33 @@
 }],
 
 "Home":[  
-  {"title":"ဩကာသ ဘုရားရှိခိုး",
-"desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"},
-{"title":"ဩကာသ ဘုရားရှိခိုး",
-"desc":"1234",
-"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}],
+  {"title":"ဩကာသ ဘုရားရှိခိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md",
+  "category":"Action"},
+    
+{"title":"ဩကာသ ဘုရားရှိခိုး","desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md",
+"category":"Action"}],
 
 "ပအိုဝ်ႏ":[  
-  {"title":"ဩကာသ ဘုရားရှိခိုး",
-"desc":"1234",
+  {"title":"ဩကာသ ဘုရားရှိခိုး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"},
 {"title":"ဩကာသ ဘုရားရှိခိုး",
 "desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}],
 
 "မေတ္တာႏ":[  
-  {"title":"ဩကာသ ဘုရားရှိခိုး",
-"desc":"1234",
+  {"title":"ဩကာသ ဘုရားရှိခိုး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"},
-{"title":"ဩကာသ ဘုရားရှိခိုး",
-"desc":"1234",
+    
+{"title":"ဩကာသ ဘုရားရှိခိုး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}],
 
 "Book":[  
-  {"title":"ဩကာသ ဘုရားရှိခိုး",
-"desc":"1234",
+  {"title":"ဩကာသ ဘုရားရှိခိုး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"},
-{"title":"ဩကာသ ဘုရားရှိခိုး",
-"desc":"1234",
+    
+{"title":"ဩကာသ ဘုရားရှိခိုး","desc":"1234",
 "tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}]
 }
 
