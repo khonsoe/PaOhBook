@@ -1,0 +1,47 @@
+{"categories":[
+    {"name":"Home", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha.png"
+},
+{"name":"ပအိုဝ်ႏ", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/Buddha4.png"
+},
+{"name":"မေတ္တာႏ", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/Buddha5.png"
+},  
+{"name":"Book", 
+  "image":"https://raw.githubusercontent.com/khonsoe/Buddha/main/Buddha%20App%20icon/buddha2.png"  
+}],
+
+"Home":[  
+  {"title":"ဩကာသ ဘုရားရှိခိုး",
+"desc":"1234",
+"tlink":"www.google"},
+{"title":"ဩကာသ ဘုရားရှိခိုး",
+"desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}],
+
+"ပအိုဝ်ႏ":[  
+  {"title":"ဩကာသ ဘုရားရှိခိုး",
+"desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"},
+{"title":"ဩကာသ ဘုရားရှိခိုး",
+"desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}],
+
+"မေတ္တာႏ":[  
+  {"title":"ဩကာသ ဘုရားရှိခိုး",
+"desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"},
+{"title":"ဩကာသ ဘုရားရှိခိုး",
+"desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}],
+
+"Book":[  
+  {"title":"ဩကာသ ဘုရားရှိခိုး",
+"desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"},
+{"title":"ဩကာသ ဘုရားရှိခိုး",
+"desc":"1234",
+"tlink":"https://raw.githubusercontent.com/khonsoe/Buddha/main/README.md"}]
+}
+
