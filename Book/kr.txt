@@ -15,3 +15,12 @@
 
 <li>အမြဲစက်ကလေး</li>
 <p style="color:blue">စာလုံးအပြာ</p>
+
+<style>
+.center {
+  text-align: center;
+  color: blue;
+}
+</style>
+<h1 class="center">ခေါင်းစဥ်အလယ်စာလုံးအရောင်</h1>
+<p class="center">ရိုးရိုးစာလုံးအရောင်</p> 
