@@ -11,7 +11,7 @@
 သေနန်းပအိုဝ်ႏမူႏပေႏ
 <br><br>
 
-<h1 style="text-align:center; color:bule">စာလုံးခေါင်းစဥ်အလယ်အပြာရောင်</h1>
+<h1 style="text-align:center; color:blue">စာလုံးခေါင်းစဥ်အလယ်အပြာရောင်</h1>
 တညတဝ်းတဆင်ႏခိန်ႏတွင်ꩻ  တွမ်ႏကာꩻဗွာဝင်ꩻကဖျော်လွဥ်တွိုႏ 
 
 <h1 style="text-align:center">စာလုံးခေါင်းစဥ်အလယ်</h1>
@@ -19,3 +19,4 @@
 
 <li>အမြဲစက်ကလေး</li>
 <p style="color:blue">စာလုံးအပြာ</p>
+khunarr
