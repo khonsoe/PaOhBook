@@ -10,7 +10,11 @@
 <h2>စာလုံးခေါင်းစဥ်ကြီး</h2>
 သေနန်းပအိုဝ်ႏမူႏပေႏ
 <br><br>
-<h1 style="color:blue,text-align:center">စာလုံးခေါင်းစဥ်အလယ်အပြာရောင်</h1>
+
+<p style="color:red" align="center">welcome</p>
+<br>
+<br>
+<h1 style="color:blue","text-align:center">စာလုံးခေါင်းစဥ်အလယ်အပြာရောင်</h1>
 တညတဝ်းတဆင်ႏခိန်ႏတွင်ꩻ  တွမ်ႏကာꩻဗွာဝင်ꩻကဖျော်လွဥ်တွိုႏ 
 
 <h1 style="text-align:center">စာလုံးခေါင်းစဥ်အလယ်</h1>
